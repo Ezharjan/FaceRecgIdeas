@@ -1,0 +1,13 @@
+# lfw Images from online : http://vis-www.cs.umass.edu/lfw/lfw.tgz
+input_img
+
+# Cache files
+tmp
+.idea
+
+# Faces after dlib procession
+other_faces
+
+# My faces through recording
+my_faces
+
